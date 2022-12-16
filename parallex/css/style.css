@@ -1,0 +1,124 @@
+ *{
+margin: 0;
+padding: 0;
+ font-family: sans-serif;
+ }
+     .bgimage1 {
+            
+            background-image: url("pexels-krivec-ales-547114.jpg");
+ 
+            min-height:800px;
+ 
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .caption{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+
+}
+
+.caption span.border {
+    background-color: rgba(17, 17, 17, 0.795);
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+
+/* closed */
+
+
+.bgimage2{
+                background-image: url("pexels753626.jpg");
+ 
+           
+ 
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+}
+       
+  .caption2 {
+    background-color: rgb(255, 255, 255);
+ 
+    text-align: center;
+    padding: 75px;
+letter-spacing: 2px;
+}
+.caption2 h2{
+    margin-bottom: 20px;
+    font-weight: 200;
+}
+.caption2 span.border {
+      
+    margin-top: 30px;
+    font-size: 15px;
+  
+}
+ 
+.bgimage2 .text3{
+    
+   
+    color: rgb(255, 254, 254);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 500px;
+}
+
+
+
+.bgimage2 .parag{
+    background-color: rgba(0, 0, 0, 0.856);
+    height: 100px;
+    color: #fff;
+      align-items: center;
+    display: flex;
+     padding-left: 30px;
+   
+}
+
+/* closed*/
+
+.bgimage3{
+           background-image: url("pexels-krivec-ales-547114.jpg");
+ 
+         
+  
+            background-attachment: fixed;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+}
+
+.caption3 .head1{
+ 
+    width: 100%;
+    height: 500px;
+    color: rgb(253, 253, 253);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+ 
+ 
+.bgimage3 .parag1{
+    background-color: rgba(0, 0, 0, 0.856);
+    height: 100px;
+    color: #fff;
+      align-items: center;
+    display: flex;
+     padding-left: 30px;
+}
+
+
+ 
